@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+46 mins
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# mosh-counter-app
